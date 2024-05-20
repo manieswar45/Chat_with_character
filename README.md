@@ -21,7 +21,7 @@ This repository contains a chatbot application that allows you to create and int
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/yourusername/CharacterAI-Chatbot.git
+    git clone https://github.com/manieswar45/Chat_with_character.git
     cd CharacterAI-Chatbot
     ```
 
@@ -51,7 +51,7 @@ This repository contains a chatbot application that allows you to create and int
 1. **Run the chatbot:**
 
     ```sh
-    python chatbot.py
+    python chat_with_character.py
     ```
 
 2. **Follow the prompts to describe the character and the scene:**
@@ -72,7 +72,7 @@ This repository contains a chatbot application that allows you to create and int
 
 ## Code Overview
 
-- **`chatbot.py`**: Main script that initializes the chatbot and handles user interaction.
+- **`chat_with_character.py`**: Main script that initializes the chatbot and handles user interaction.
 - **`requirements.txt`**: Lists the required Python packages for the project.
 
 ## Contributing
